@@ -1,0 +1,133 @@
+=====Basic javascript =========
+var datatypes strings string module numbers loose equality vs strict equality 
+type conversion 
+array
+boolean values and comparision operator
+
+================Control Flow=============== 
+
+for while 
+do while
+if /else/else if
+
+============break=====
+break and continue
+logical operators 
+variabvle and block scope 
+ternary operator 
+switch statement
+
+=====function=====
+function and function
+function and function expression 
+function parameters and argument 
+=====return statement=====
+arrow function
+higher order function -callbacks 
+higher order function - returning function
+iife
+setTimeout and setinterval
+hoisting
+
+===objects====
+object introduction
+'fubntion and method 
+this keyword 
+foreach method 
+obeject inside array
+math object 
+call apply and bind
+pass by value and pass by reference
+for in loop
+
+====Dom=====
+Dom introduction
+query selector
+other ways to access elements
+innertext vs innerHtml
+getting and setting attribute 
+adding the style
+add and remove replace class 
+event basics 
+creating and removing element
+bubbling and delegation
+===forms-====
+Domm -forms
+submit event 
+regular expression
+basics form validation 
+keyboard event
+
+
+==array method 
+array method 
+slice 
+splice
+accessMap
+Filter 
+Reduce 
+find
+Reduce
+findfindindex
+some and every
+flat method 
+flatmap method 
+sorting arrays
+chaining of methods
+
+===date=====
+date and setTimeoutdate and time method
+digital clock
+
+====local storage====
+local storage introduction
+set and get item 
+deleting items 
+store complex datat
+
+====oop====
+cunstructor and new operator
+prototypes
+prototyical inheritance 
+ES6 classes
+setters and getters
+static method
+class inheritance
+inheriatnce by prototyping
+chaining of methods
+
+===Asyncjs
+async code 
+xml http request
+status codecall back function
+extracting json data
+callback hell
+basics of promise
+chaining of promise 
+chaining of promise 
+fetch api
+async await
+======errors ==
+custom errors
+async await without return statement
+Error handling using try catch method
+
+================ES6===================================
+
+Array destructing 
+object de-structing
+spread operator 
+rest operator
+short circuiting 
+Nullish coalescing operator
+for-of loop 
+Enhanced object literals shortcut
+optional chaining 
+loop=ing object
+setMap intro and map iteration
+
+Modern Tooling 
+Importing and exporting es5 modules
+top level await Es2022
+module pattern
+intro to NPm
